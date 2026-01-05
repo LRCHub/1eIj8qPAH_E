@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "トーキョーナイトダイブ",
+  "base_artist": "KOTORI",
+  "createdAt": "2026-01-05T15:05:44.997804Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "トーキョーナイトダイブ",
+      "artist": "KOTORI",
+      "has_synced": false,
+      "path": "select/pl_01_トーキョーナイトダイブ_KOTORI.txt"
+    }
+  ]
+}
